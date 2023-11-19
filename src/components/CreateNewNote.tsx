@@ -12,7 +12,7 @@ export const CreateNewNote = () => {
             height={40}
             className="w-5 rounded bg-white"
           />
-          Create a New Note
+          New Note...
         </button>
       </div>
     </>
